@@ -1,0 +1,1 @@
+Select Count(last_name) from employee where last_name = 'Smith';
